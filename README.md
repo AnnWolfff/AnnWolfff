@@ -4,7 +4,7 @@
 <div align="center">
 	
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://art.kartinkof.club/uploads/posts/2023-07/1688919401_art-kartinkof-club-p-zvukovie-volni-art-7.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.lescienze.it/images/2019/03/13/185620939-f09de294-3474-4af2-bfa1-1df7a599fccf.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://art.kartinkof.club/uploads/posts/2023-07/1688919401_art-kartinkof-club-p-zvukovie-volni-art-3.jpg">
  <img alt="Shows a wight background in light mode and a black background in dark mode." src="https://art.kartinkof.club/uploads/posts/2023-07/1688919409_art-kartinkof-club-p-zvukovie-volni-art-31.jpg">
 </picture>
