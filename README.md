@@ -4,9 +4,9 @@
 <div align="center">
 	
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://ru.pngtree.com/freebackground/wave-animation-sound-waves_3538857.html">
- <source media="(prefers-color-scheme: light)" srcset="https://art.kartinkof.club/art/7123-zvukovye-volny-art-64-foto.html">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://art.kartinkof.club/uploads/posts/2023-07/1688919401_art-kartinkof-club-p-zvukovie-volni-art-7.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://art.kartinkof.club/uploads/posts/2023-07/1688919401_art-kartinkof-club-p-zvukovie-volni-art-3.jpg">
+ <img alt="Shows a wight background in light mode and a black background in dark mode." src="https://art.kartinkof.club/uploads/posts/2023-07/1688919409_art-kartinkof-club-p-zvukovie-volni-art-31.jpg">
 </picture>
 	
 # Приветствую, меня зовут Анастасия👋
