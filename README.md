@@ -1,19 +1,11 @@
-<div class="morph-shape" id="morph-shape"  >
-<svg xmlns="http://www.w3.org/2000/svg" width="200%" height="100%" viewBox="0 0 1000 300"  preserveAspectRatio="none">
-<path fill="dodgerblue" d="M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z">
-  <animate
-    attributeName="d"
-	dur="7s"
-	repeatCount="indefinite" 
-  values=" 
-    M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z;
-	M0.00,49.98 C157.16,-41.94 281.88,148.52 500.00,49.98 L500.00,0.00 L0.00,0.00 Z;
-    M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" />
-</path>	
-</svg> 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 <div align="center">
+	
 # Приветствую, меня зовут Анастасия👋
 
   
