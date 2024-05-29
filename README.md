@@ -4,9 +4,9 @@
 <div align="center">
 	
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.lescienze.it/images/2019/03/13/185620939-f09de294-3474-4af2-bfa1-1df7a599fccf.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://art.kartinkof.club/uploads/posts/2023-07/1688919401_art-kartinkof-club-p-zvukovie-volni-art-3.jpg">
- <img alt="Shows a wight background in light mode and a black background in dark mode." src="https://art.kartinkof.club/uploads/posts/2023-07/1688919409_art-kartinkof-club-p-zvukovie-volni-art-31.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/premium-photo/background-with-swirling-dots-and-lines-and-a-white-abstract-wave-generative-ai_449480-1079.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://art.kartinkof.club/uploads/posts/2023-07/thumbs/1688919401_art-kartinkof-club-p-zvukovie-volni-art-3.jpg">
+ <img alt="Shows a wight background in light mode and a black background in dark mode." src="https://art.kartinkof.club/uploads/posts/2023-07/thumbs/1688919411_art-kartinkof-club-p-zvukovie-volni-art-42.jpg">
 </picture>
 	
 # Приветствую, меня зовут Анастасия👋
@@ -19,7 +19,7 @@
 </div>
 
 ## Обо мне
-Я - аналитик данных с большим опытом в научных исследованиях. Окончила МФТИ по направлению Прикладная математика и физика. Кандидат технических наук. Занималась проведением экспериментов в аэродинамических установках. На данный момент решила углубиться в аналитику данных и сконцентрироваться на решении более прикладных бизнес-задач.
+Я - аналитик данных с большим опытом в научных исследованиях. Окончила МФТИ по направлению прикладная математика и физика. Кандидат технических наук. Занималась проведением экспериментов в аэродинамических установках. На данный момент решила углубиться в аналитику данных и сконцентрироваться на решении более прикладных бизнес-задач.
 
 ## Инструменты 🔧
 
