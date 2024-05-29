@@ -1,8 +1,21 @@
-
-
-# Приветствую, меня зовут Анастасия👋
+<div class="morph-shape" id="morph-shape"  >
+<svg xmlns="http://www.w3.org/2000/svg" width="200%" height="100%" viewBox="0 0 1000 300"  preserveAspectRatio="none">
+<path fill="dodgerblue" d="M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z">
+  <animate
+    attributeName="d"
+	dur="7s"
+	repeatCount="indefinite" 
+  values=" 
+    M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z;
+	M0.00,49.98 C157.16,-41.94 281.88,148.52 500.00,49.98 L500.00,0.00 L0.00,0.00 Z;
+    M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" />
+</path>	
+</svg> 
+</div>
 
 <div align="center">
+# Приветствую, меня зовут Анастасия👋
+
   
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-0b0038??style=flat-square&logo=telegram)](https://t.me/AnastasiiaW)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-0b0038??style=flat-square&logo=gmail&logoColor=white)](mailto:a.volkova.mipt@gmail.com)
