@@ -44,8 +44,8 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1  Анализ продуктовых метрик приложения мобильных игр  (__[github](https://github.com/AnnWolfff/Project_1_mobile_game_app)__)|Формирование когорт по дате регистрации. Расчет продуктовых метрик (Conversion Rate, ARPU, ARPPU). Проверка гипотез, анализ результатов АБ-теста (критерий Хи-квадрат, T-test). Формирование группы метрик при изменении механики приложения.|Python, Pandas, Numpy, Seaborn, Scipy, GitLab|
-|Проект 2 Анализ данных по успеваемости студентов  (__[github](https://github.com/AnnWolfff/e-learning_project)__)|Предварительный анализ и предобработка данных, формирование рейтингов курсов и экзаменов, анализ успеваемости студентов, RFM-анализ.|Python, Pandas, Numpy, Seaborn, GitLab|
+|Анализ продуктовых метрик приложения мобильных игр  (__[github](https://github.com/AnnWolfff/Project_1_mobile_game_app)__)|Формирование когорт по дате регистрации. Расчет продуктовых метрик (Conversion Rate, ARPU, ARPPU). Проверка гипотез, анализ результатов АБ-теста (критерий Хи-квадрат, T-test). Формирование группы метрик при изменении механики приложения.|Python, Pandas, Numpy, Seaborn, Scipy, GitLab|
+|Анализ данных по успеваемости студентов  (__[github](https://github.com/AnnWolfff/e-learning_project)__)|Предварительный анализ и предобработка данных, формирование рейтингов курсов и экзаменов, анализ успеваемости студентов, RFM-анализ.|Python, Pandas, Numpy, Seaborn, GitLab|
 
 ### Курсы
 [![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)](https://lab.karpov.courses/certificate/4d8df27a-b8bc-42a3-b671-12ea4ab66d7d/)<br>
